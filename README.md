@@ -1,5 +1,5 @@
 - Hi there, I’m @MithulMDev
-- Just another day in this journey towards exploring meaningful insights through raw data.
+
 - 📫 Reach me via mithulapc6@gmail.com
 - ✅ connect me on www.linkedin.com/in/mithulmurugaadev
 - 📊 checkout my tableau profile - https://public.tableau.com/app/profile/mithul.murugaadev
