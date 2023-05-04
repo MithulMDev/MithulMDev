@@ -1,5 +1,4 @@
 - Hi there, I’m @MithulMDev
-
 - 📫 Reach me via mithulapc6@gmail.com
 - ✅ connect me on www.linkedin.com/in/mithulmurugaadev
 - 📊 checkout my tableau profile - https://public.tableau.com/app/profile/mithul.murugaadev
